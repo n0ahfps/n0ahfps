@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n0ahfps
 - 👀 I’m interested in engineering, coding and gaming
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C and C++.
 - 📫 How to reach me :
 - 🐦 : @NoahFPS_OW
 - 🕴️ : Noah ONOFRE
